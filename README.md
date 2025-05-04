@@ -1,4 +1,4 @@
-[![Rust](https://github.com/wutterfly/smolr/actions/workflows/rust.yml/badge.svg)](https://github.com/wutterfly/smolr/actions/workflows/rust.yml)
+![Rust](https://github.com/wutterfly/smolr/actions/workflows/rust.yml/badge.svg)
 
 
 # SMOL-R
